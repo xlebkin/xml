@@ -1,0 +1,24 @@
+INVENTORY
+{
+background-color: #56425c;
+width: 100%;
+}
+BOOK
+{
+display: block;
+margin-bottom: 30px;
+}
+TITLE
+{
+font-size: 22px;
+}
+AUTHOR
+{
+font-size: 22px;
+}
+BINDING,PAGES,PRICE
+{
+display: block;
+color: #333333;
+margin-left: 10px;
+}
